@@ -1,6 +1,7 @@
 <?php
+$nombre="Juan";
 
-echo "Alejandro Munyoz Belmar";
+echo "hola ".$nombre;
 
 
 ?>
